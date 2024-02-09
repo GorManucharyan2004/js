@@ -1,0 +1,33 @@
+/* body {
+    background-image: url(https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paragraf {
+   font-size: larger;
+   color: white;
+}
+
+.title {
+    color: aliceblue;
+} */
+
+ body {
+    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/Earthaaaa_1200x768.jpeg?size=690:388);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+div {
+    width: 1200px;
+}
+
+.paragraf {
+   font-size: larger;
+   color: white;
+}
+
+.title {
+    color: aliceblue;
+} 
